@@ -127,15 +127,3 @@ $ npm run dev (for both client and server side)
 - CLOUDINARY_API_ESCRET=
 
 
-# Author
-
-👤 &nbsp; **Mohamed Elashmawy**
-
-- Twitter: [@hamohuh](https://twitter.com/hamohuh)
-- Github: [@moelashmawy](https://github.com/moelashmawy)
-- Linkedin: [@moelashmawy](https://www.linkedin.com/in/moelashmawy/)
-- Email: [ashmawy894@gmail.com](mailto:ashmawy894@gmail.com)
-
-## 📝 &nbsp; License
-
-- This project is [MIT](./LICENSE) licensed.
